@@ -1,0 +1,1 @@
+Example managed component created for Cloudflare Zaraz certification. See docs to create your own: https://managedcomponents.dev/

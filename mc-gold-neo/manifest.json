@@ -1,0 +1,12 @@
+{
+  "name": "MC Gold Neo",
+  "namespace": "mc-gold-neo",
+  "description": "A Managed Component for making the internet better",
+  "icon": "assets/icon.svg",
+  "permissions": {
+    "provide_pageviews": {
+      "description": "This permission is used to facilitate better a user experience.",
+      "required": true
+    }
+  }
+}
